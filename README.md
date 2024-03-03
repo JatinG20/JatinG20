@@ -1,6 +1,21 @@
 - 👋 Hi, I’m @JatinG20
 - 👀 I’m interested in Technology in general.
-- 🌱 I’m currently learning Computer Science
+- Tech Stack:
+    Languages:       C++, JavaScript, HTML/CSS
+    Frameworks:      SCSS
+    Developer Tools: Github, VS Code, Visual Studio
+- 🌱 I’m currently learning Computer Science.
+- Education
+  Bhabha University
+  Bhopal
+  Bachelor of Computer Applications
+  Aug. 2022 – July. 2025
+
+  Chavara Vidhya Bhavan Hr. Sec. School
+  Mandideep
+  Higher Secondary School Certificate
+  Mar. 2009 – May 2021
+  
 - 💞️ I’m looking to collaborate on Web Applications and much more.
 - 📫 How to reach me Twitter: https://twitter.com/JatinX20   /\/\/\/\/\/  Linkedin: https://www.linkedin.com/in/jatin-galphate/  
 - 😄 Pronouns: He/Him
