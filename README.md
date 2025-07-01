@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JatinG20
 - 👀 I’m interested in Technology in general.
 - Tech Stack:
-    Languages:       C++, JavaScript, HTML/CSS
+    Languages:       Java, C++, JavaScript, HTML/CSS
     Frameworks:      SCSS, Spring
     Developer Tools: Github, VS Code, Visual Studio
 - 🌱 I’m currently learning Computer Science.
